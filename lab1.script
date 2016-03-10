@@ -1,0 +1,21 @@
+Script started on 2016年03月10日 (週四) 12時58分17秒
+F74046577@2015cpp:~$ whoami; pwd
+F74046577
+/home/F74046577
+F74046577@2015cpp:~$ git cl[Konifg -?[K|
+> git conifg -|[C[C[2Pwhoami; pwd[C[Cgot config -| git clone https://github.com/TWPLrh/lab1.git[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P
+fatal: destination path 'lab1' already exists and is not an empty directory.
+git: 'conifg' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+F74046577@2015cpp:~$ git conifg -| git clone https://github.com/TWPLrh/lab1.git[C[1P[1P[1@f[1@i
+error: key does not contain a section: -
+fatal: destination path 'lab1' already exists and is not an empty directory.
+F74046577@2015cpp:~$ git config -| git clone https://github.com/TWPLrh/lab1.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+> git config -| git clone https://github.com/TWPLrh/lab1.git[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P
+fatal: destination path 'lab1' already exists and is not an empty directory.
+error: key does not contain a section: -
+F74046577@2015cpp:~$ exit
+
+Script done on 2016年03月10日 (週四) 12時59分40秒
